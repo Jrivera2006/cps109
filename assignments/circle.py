@@ -12,8 +12,8 @@ Upload your file to your GitHub account and send me the link.
 """
 
 import math
-radius = int(input("Enter the radius of the cirle: "))
-print(int(radius))
+radius = int(input('Enter the radius of the circle: '))
+print(type(radius))
 
 cirmcumference = 2 * math.pi * radius
 
