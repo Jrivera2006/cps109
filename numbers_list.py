@@ -7,7 +7,6 @@ Get the maximum value in the list using the max() function.
 Print the minimum and maximum values.
 Upload the file to your GitHub account and send me the link.
 """
-import math
 
 number = [40, 50, 10, 25, 20, 60]
 
