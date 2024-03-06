@@ -20,7 +20,7 @@ number = random.randrange(1, 11)
 while guess != number:
     count += 1
     guess = int(input('Guess a number in the range 1-10: '))
-    if guess ==number:
+    if guess == number:
         print(f'Yes! the number chosen is {number} in {count} tries')
         break
     else:
