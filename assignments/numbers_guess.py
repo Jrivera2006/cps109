@@ -13,7 +13,6 @@ Upload your file to your GitHub and send me the link.
 
 import random
 count = 0
-number = 0
 guess = 0
 number = random.randrange(1, 11)
 
